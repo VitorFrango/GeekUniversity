@@ -1,0 +1,402 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GeekUniversity",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity-Debug-1b622f3a3350a11a27ea.json",
+					"name" : "GeekUniversity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_1-Debug-9ef6ecf08ced4118d550.json",
+					"name" : "GeekUniversity_c_s3_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_10-Debug-d06b18f95ce5bb18b0c3.json",
+					"name" : "GeekUniversity_c_s3_10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_13-Debug-8a012827d21947f6424b.json",
+					"name" : "GeekUniversity_c_s3_13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_14-Debug-f1832031d9702ea2526b.json",
+					"name" : "GeekUniversity_c_s3_14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_15-Debug-9a485e63499221830c5c.json",
+					"name" : "GeekUniversity_c_s3_15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_17-Debug-a4a6beede47e7416cd91.json",
+					"name" : "GeekUniversity_c_s3_17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_18-Debug-f68147659bf842f79d1a.json",
+					"name" : "GeekUniversity_c_s3_18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_2-Debug-fbabf1298859c4c83ff9.json",
+					"name" : "GeekUniversity_c_s3_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_21::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_21-Debug-be3046b0cf2f6f4b9d52.json",
+					"name" : "GeekUniversity_c_s3_21",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_22::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_22-Debug-84a980d66cc71ac7900c.json",
+					"name" : "GeekUniversity_c_s3_22",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_28::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_28-Debug-c8a606685cc30785402c.json",
+					"name" : "GeekUniversity_c_s3_28",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_29::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_29-Debug-3e1cd7d627e5c1c6fd00.json",
+					"name" : "GeekUniversity_c_s3_29",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_30::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_30-Debug-04bcd1c9335943f7df30.json",
+					"name" : "GeekUniversity_c_s3_30",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_31::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_31-Debug-17f341c3095d239b6075.json",
+					"name" : "GeekUniversity_c_s3_31",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_32::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_32-Debug-f2f449c38d437105613b.json",
+					"name" : "GeekUniversity_c_s3_32",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_33::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_33-Debug-b590018e78d150cf3e9b.json",
+					"name" : "GeekUniversity_c_s3_33",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_34::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_34-Debug-9171fd53b2fd455735f0.json",
+					"name" : "GeekUniversity_c_s3_34",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_35::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_35-Debug-42ebafd997a5680c601b.json",
+					"name" : "GeekUniversity_c_s3_35",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_36::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_36-Debug-9c0c5a8831dfc560306c.json",
+					"name" : "GeekUniversity_c_s3_36",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_37::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_37-Debug-ed412ced5d02d9e5ca71.json",
+					"name" : "GeekUniversity_c_s3_37",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_38::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_38-Debug-5789a338607085830cf2.json",
+					"name" : "GeekUniversity_c_s3_38",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_39::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_39-Debug-081c7ef790ee51a44302.json",
+					"name" : "GeekUniversity_c_s3_39",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_4-Debug-dd500571074154420d14.json",
+					"name" : "GeekUniversity_c_s3_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_40::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_40-Debug-666aa7e2af1b58f37ac7.json",
+					"name" : "GeekUniversity_c_s3_40",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_41::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_41-Debug-69d1bc30fc5406a68eee.json",
+					"name" : "GeekUniversity_c_s3_41",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_42::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_42-Debug-f29790c6b2249c5e48e6.json",
+					"name" : "GeekUniversity_c_s3_42",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_43::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_43-Debug-fbd02184e0b3de388089.json",
+					"name" : "GeekUniversity_c_s3_43",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_44::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_44-Debug-35c471334b8536ff0a90.json",
+					"name" : "GeekUniversity_c_s3_44",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_45::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_45-Debug-2a2af7270fdf14cceab1.json",
+					"name" : "GeekUniversity_c_s3_45",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_46::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_46-Debug-930d169a9c0af4519d05.json",
+					"name" : "GeekUniversity_c_s3_46",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_47::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_47-Debug-b8520e076f6db38e2bf0.json",
+					"name" : "GeekUniversity_c_s3_47",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_48::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_48-Debug-8f17691af6208c5fa90c.json",
+					"name" : "GeekUniversity_c_s3_48",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_49::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_49-Debug-a9ca7f05a9b5ab6cccfe.json",
+					"name" : "GeekUniversity_c_s3_49",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_5-Debug-7b2239808725af65faf3.json",
+					"name" : "GeekUniversity_c_s3_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_6-Debug-fcd2fb4d9e3a8c512f8d.json",
+					"name" : "GeekUniversity_c_s3_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_c_s3_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_c_s3_7-Debug-31155dbeab3be4b372c1.json",
+					"name" : "GeekUniversity_c_s3_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_main-Debug-70bd638b7f8e948eb002.json",
+					"name" : "GeekUniversity_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeekUniversity_primeiro::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeekUniversity_primeiro-Debug-085675a5830102eba556.json",
+					"name" : "GeekUniversity_primeiro",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/vitorfrango/Documents/Codigo /GeekUniversity/cmake-build-debug",
+		"source" : "/Users/vitorfrango/Documents/Codigo /GeekUniversity"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
